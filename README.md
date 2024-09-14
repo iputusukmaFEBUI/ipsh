@@ -1,13 +1,4 @@
----
-layout: home
-title: IPSH
-permalink: /
----
-
-
-[I Putu Sukma Hendrawan](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://iputusukmafebui.github.io)
-
-## Why Jekyll with GitBook
+## I Putu Sukma Book
 
 GitBook is an amazing frontend style to present and organize contents (such as book chapters
 and blogs) on Web. The typical to deploy GitBook at [Github Pages][1]
