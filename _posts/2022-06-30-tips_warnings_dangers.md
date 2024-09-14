@@ -6,12 +6,26 @@ category: Jekyll
 layout: post
 ---
 
-Heck
+long contents .....
+
+1. Introduction to Finance
++ Financial decisions of households and corporations
++ Objective of corporate financial managers
++ Approaches to valuing financial and real assets
++ Opportunity of cost of capital
++ The role of financial markets
++ Unifying principles of finance
+
+2. 
+3. b
+4. c
+5. d
+6. 
 from [the discord.js website][1].
 
 You could have the following [markdown attributes (supported by kramdown)][2]:
 
-### Tips
+### Coverage of Financial Theory
 
 Using a `{: .block-tip}` attribute:
 
