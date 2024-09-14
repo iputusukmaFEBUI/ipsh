@@ -1,12 +1,12 @@
 ---
-title: Tips, Warnings, and Dangers
+title: Financial Theory
 author: Tao He
 date: 2022-06-30
 category: Jekyll
 layout: post
 ---
 
-This jekyll-theme supports tips, warnings, and dangers blocks and the style is referred
+Heck
 from [the discord.js website][1].
 
 You could have the following [markdown attributes (supported by kramdown)][2]:
