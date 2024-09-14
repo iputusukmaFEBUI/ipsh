@@ -1,8 +1,8 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        IPSH
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            IPSH Gitbook
+longtitle:        I Putu Sukma Hendrawan GitBook
+author:           I Putu Sukma Hendrawan
+email:            iputusukma@pm.me
 description: >
   Build Jekyll site with the GitBook style.
 
