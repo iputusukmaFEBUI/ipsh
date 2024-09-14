@@ -1,8 +1,8 @@
 ---
 title: Financial Theory
-author: Tao He
-date: 2022-06-30
-category: Jekyll
+author: IPSH
+date: 2024-09-14
+category: IPSH
 layout: post
 ---
 
