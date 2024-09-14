@@ -6,7 +6,7 @@ category: IPSH
 layout: post
 ---
 
-long contents .....
+### Coverage of Financial Theory
 
 1. Introduction to Finance
 + Financial decisions of households and corporations
