@@ -5,7 +5,7 @@ permalink: /
 ---
 
 
-[![I Putu Sukma Hendrawan](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://iputusukmafebui.github.io)
+[I Putu Sukma Hendrawan](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://iputusukmafebui.github.io)
 
 ## Why Jekyll with GitBook
 
